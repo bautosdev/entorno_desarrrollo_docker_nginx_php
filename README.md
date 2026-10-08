@@ -25,9 +25,7 @@ http://localhost:8080/
 
 Todos los cambios de edicion se realizan dentro de la carpeta 
 
-entorno_desarrrollo_docker_nginx_php
----src
-    --index.php
+entorno_desarrrollo_docker_nginx_php/src/index.php
 
 
 
