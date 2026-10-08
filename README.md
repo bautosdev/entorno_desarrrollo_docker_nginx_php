@@ -1,4 +1,4 @@
-# entorno_desarrrollo_docker_nginx_php
+# entorno_desarrollo_docker_nginx_php
 Creamos un entorno de desarrollo con php 8.3 y carpeta compartida donde colocamos el proyecto a desarrollar.
 
 Tener instalado docker para que pueda inciar la descarga de la imagen en docker.
@@ -25,7 +25,7 @@ http://localhost:8080/
 
 Todos los cambios de edicion se realizan dentro de la carpeta 
 
-entorno_desarrrollo_docker_nginx_php/src/index.php
+entorno_desarrollo_docker_nginx_php/src/index.php
 
 
 
